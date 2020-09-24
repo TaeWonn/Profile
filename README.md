@@ -4,7 +4,7 @@
 
 - 이름 :나태운
 - Email : xodns5977@naver.com
-- Notion : https://www.notion.so/tae97/WSL2-d46f87d141b544f3a705f227e524c17c
+- Notion : http://tae-sik.com/
 
 
 ## 경력
